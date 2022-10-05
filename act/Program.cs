@@ -2,7 +2,9 @@
 
 namespace Bubble_Sort
 {
-
-    //Deklarasi array int dengan ukuran 20
-    private int[] a = new int[20];
+    class program
+    {
+        //Deklarasi array int dengan ukuran 20
+        private int[] a = new int[20];
+    }
 }
